@@ -19,7 +19,7 @@ class Edencommon < Formula
   depends_on "googletest" => :build
   depends_on "wangle" => :build
   depends_on "boost"
-  depends_on "fb303"
+  depends_on "Nattawut1994/my-old-formulas/fb303"
   depends_on "fbthrift"
   depends_on "fmt"
   depends_on "folly"
